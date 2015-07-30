@@ -1,5 +1,5 @@
 # C Hangman
-A simple hangman game written in C
+A simple hangman game written in C as a teaching demonstration for ICS2O.
 
 ## Features
 - Loads a word randomly from a file
