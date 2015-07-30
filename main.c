@@ -13,7 +13,7 @@ void chooseword(const char* wordsfile, char* word) {
 	char 	c;
 	int 	i;
 	int 	random;
-	int		count = 0;
+	int 	count = 0;
 	FILE* 	words = fopen(wordsfile, "r");
 
 	// Count the number of words in the file
